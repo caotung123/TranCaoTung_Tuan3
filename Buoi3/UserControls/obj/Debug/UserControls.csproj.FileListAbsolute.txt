@@ -1,6 +1,0 @@
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\UserControls\bin\Debug\UserControls.dll
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\UserControls\bin\Debug\UserControls.pdb
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\UserControls\obj\Debug\UserControls.mdDangNhap.resources
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\UserControls\obj\Debug\UserControls.csproj.GenerateResource.Cache
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\UserControls\obj\Debug\UserControls.dll
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\UserControls\obj\Debug\UserControls.pdb

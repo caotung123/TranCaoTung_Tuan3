@@ -1,6 +1,0 @@
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\Controls\bin\Debug\Controls.dll
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\Controls\bin\Debug\Controls.pdb
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\Controls\obj\Debug\Controls.CustomControls.resources
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\Controls\obj\Debug\Controls.csproj.GenerateResource.Cache
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\Controls\obj\Debug\Controls.dll
-E:\LuuDuLieuSinhVien\TranCaoTung\Buoi3\Controls\obj\Debug\Controls.pdb
